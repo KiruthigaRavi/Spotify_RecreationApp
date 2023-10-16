@@ -1,6 +1,6 @@
 # Spotify_RecreationApp
 <p align="center">
-<img src="![ss2](https://github.com/KiruthigaRavi/Spotify_RecreationApp/assets/104771518/01e363f3-3828-4bb5-a1f7-c6e509a0ae07)" width="200" />
+  <img src="https://github.com/KiruthigaRavi/Spotify_RecreationApp/assets/104771518/01e363f3-3828-4bb5-a1f7-c6e509a0ae07" width="200" />
 </p>
 <p>
 
