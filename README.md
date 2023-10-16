@@ -9,5 +9,8 @@
 <p>:desktop_computer:Tool:Android studio</p>
 :floppy_disk:Blueprint:
 
+
+
+
 <p align="center"><img src="https://github.com/KiruthigaRavi/Spotify_RecreationApp/assets/104771518/b6e1b445-7d12-4bdf-883a-7801271b27e4" width="400" ></p>
 <p align="center"><img src="https://github.com/KiruthigaRavi/Spotify_RecreationApp/assets/104771518/6986c38c-3ea0-4f6d-881e-83fc84701db5" width="400" ></p>
